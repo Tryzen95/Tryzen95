@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tryzen95</h1>
 <h3 align="center">I am a Front and Backend Developer, Spezials on GTA:V Multiplayer Applications and Web Development</h3>
 
-- 🔭 I’m currently working on **Second:V Alt:V Roleplay Framework**
+- 🔭 I’m currently working on **Second:V Alt:V Roleplay Framework and my Own IOS Mobile APP**
 
 </p>
 
